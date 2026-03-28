@@ -1,0 +1,7 @@
+{
+  "prompt": "Aerial bird's eye view photograph of the Amazon rainforest. The top-left two-thirds of the image is an impossibly dense, dark emerald green rainforest canopy — lush, ancient, alive, packed with biodiversity. Moving diagonally toward the bottom-right, the forest dissolves gradually and irreversibly into barren, rust-red and ochre scorched earth — raw soil, ash, skeletal burned tree stumps. The transition is not a sharp line but a slow painful erosion, like the forest is being erased. No roads visible. No buildings. No people. No text. No labels. Shot from directly above. Photorealistic satellite imagery style. The mood is mournful, vast, and irreversible.",
+  "model": "Ideogram 2",
+  "dataset_name": "INPE PRODES Amazon Deforestation Data",
+  "dataset_url": "https://terrabrasilis.dpi.inpe.br/downloads/",
+  "insight": "The Amazon has lost over 54 million hectares since 2001 — an area the size of France — with over 1,000 football fields of forest still disappearing every single day."
+}
